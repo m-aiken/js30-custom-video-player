@@ -1,0 +1,1 @@
+Video Player app from Wes Bos JavaScript 30 site. Additional fullscreen capabilities added.
